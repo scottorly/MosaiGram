@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "126674DBB4C4CB39FBEA6BE07E3254CB15FC5622",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "126674DBB4C4CB39FBEA6BE07E3254CB15FC5622" : 9223372036854775807,
+    "D2711E5FA375A5E1959C340B6647957DA2A1EF75" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E0184375-5A32-40F0-8F06-DAE521CFBA29",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "126674DBB4C4CB39FBEA6BE07E3254CB15FC5622" : "MosaicGram\/",
+    "D2711E5FA375A5E1959C340B6647957DA2A1EF75" : "MosaicGram\/server\/Packages\/Swawsh-0.1.4\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Mosaigram",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mosaigram.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/ScottOrlyck\/MosaiGram.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "126674DBB4C4CB39FBEA6BE07E3254CB15FC5622"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ScottORLY\/Swawsh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2711E5FA375A5E1959C340B6647957DA2A1EF75"
+    }
+  ]
+}

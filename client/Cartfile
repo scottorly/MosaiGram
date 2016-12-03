@@ -1,0 +1,4 @@
+github "AliSoftware/Dip"
+github "ReactiveX/RxSwift" ~> 3.0
+github "SwiftyJSON/SwiftyJSON"
+github "hyperoslo/ImagePicker"
