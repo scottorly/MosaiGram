@@ -36,4 +36,5 @@ Packages/
 *.xcodeproj
 Carthage/
 Cartfile.resolved
+manifest.yml
 
